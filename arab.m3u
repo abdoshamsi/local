@@ -1,29 +1,27 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
-#EXTINF:-1  tvg-id="SyriaTV.sy",Syria TV 
+#EXTINF:-1  tvg-id="SyriaTV.sy",تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="SamaTV.sy",Sama TV  
+#EXTINF:-1  tvg-id="SamaTV.sy",قناة سما  
 http://stream5.sama-tv.net/hls/stream.m3u8
-#EXTINF:-1  tvg-id="LanaTV.sy",Lana TV 
+#EXTINF:-1  tvg-id="LanaTV.sy",تلفزيون لنا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1  tvg-id="LanaTVPlus.sy",Lana TV Plus 
+#EXTINF:-1  tvg-id="LanaTVPlus.sy",تلزيون لنا بلس 
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:-1  tvg-id="AlmahaliyaTV.sy",Almahaliya 
+#EXTINF:-1  tvg-id="AlmahaliyaTV.sy",الارضية السورية  
 http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
-#EXTINF:-1  tvg-id="SyrianSatelliteChannel.sy",Syria Satellite Channel
+#EXTINF:-1  tvg-id="SyrianSatelliteChannel.sy",الفضائية السورية
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
-#EXTINF:-1  tvg-id="SyriaDrama.sy",Syria Drama
+#EXTINF:-1  tvg-id="SyriaDrama.sy",سوريا دراما
 http://elahmad.ipslow.com:8080/syria_drama/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-id="SyrianEducationalTV.sy",Syrian Education TV
+#EXTINF:-1  tvg-id="SyrianEducationalTV.sy",التعليمية السورية
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
-#EXTINF:-1  tvg-id="SyrianNewsChannel.sy",Syrian News Channel
+#EXTINF:-1  tvg-id="SyrianNewsChannel.sy",الاخبارية السورية
 http://vod.ortas.sy:1935/oLive/snews05042022/playlist.m3u8
-#EXTINF:-1  tvg-id="NoorAlSham.sy",Noor Al-Sham
+#EXTINF:-1  tvg-id="NoorAlSham.sy",نور الشام
 http://vod.ortas.sy:1935/oLive/nour05042022/playlist.m3u8
-#EXTINF:-1  tvg-id="SouryanaRadio.sy",Souryana Radio
+#EXTINF:-1  tvg-id="SouryanaRadio.sy",راديو سوريانا
 http://vod.ortas.sy:1935/oLive/souryana05042022/playlist.m3u8
-#EXTINF:-1  tvg-id="UgaritTV.sy",Ugarit TV  
-http://82.137.248.16:1935/Ugarit/stream19042021/playlist.m3u8
-#EXTINF:-1  tvg-id="HalabTodayTV.sy",Halab Today TV  
+#EXTINF:-1  tvg-id="HalabTodayTV.sy",حلب اليوم
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="2MMonde.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",2M Monde 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
