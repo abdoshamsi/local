@@ -1,12 +1,10 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+#EXTM3U
 #EXTINF:-1  tvg-id="SyriaTV.sy",HD تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 #EXTINF:-1  tvg-id="SyriaTV.sy",SD تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
 #EXTINF:-1  tvg-id="SamaTV.sy",HD قناة سما  
 http://157.90.243.220:1935/live/smil:mystream1.smil/chunklist_w1467716095_b2092100_slip,157,90,243,220,ip.m3u8
-#EXTINF:-1  tvg-id="SamaTV.sy",SD قناة سما  
-http://stream5.sama-tv.net/hls/stream_mid/index.m3u8
 #EXTINF:-1  tvg-id="LanaTV.sy",تلفزيون لنا
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
 #EXTINF:-1  tvg-id="LanaTVPlus.sy",تلزيون لنا بلس 
@@ -16,7 +14,7 @@ http://vod.ortas.sy:1935/oLive/aloula05042022/playlist.m3u8
 #EXTINF:-1  tvg-id="SyrianSatelliteChannel.sy",الفضائية السورية
 http://vod.ortas.sy:1935/oLive/sat05042022/playlist.m3u8
 #EXTINF:-1  tvg-id="SyriaDrama.sy",سوريا دراما
-http://elahmad.ipslow.com:8080/syria_drama/tracks-v1a1/mono.m3u8
+http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 #EXTINF:-1  tvg-id="SyrianEducationalTV.sy",التعليمية السورية
 http://vod.ortas.sy:1935/oLive/sedu05042022/playlist.m3u8
 #EXTINF:-1  tvg-id="SyrianNewsChannel.sy",الاخبارية السورية
