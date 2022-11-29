@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1  tvg-id="worldcup",HD كأس العالم 1
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1  tvg-id="worldcup",HD كأس العالم 2
+https://streaming.najah.edu:8443/hls/AlNajah_hd720/index.m3u8
 #EXTINF:-1  tvg-id="worldcup",HD كأس العالم دقة عالية
 https://murthyneeraj231.s3.amazonaws.com/worldcup_1080.m3u8
 #EXTINF:-1  tvg-id="SyriaTV.sy",HD تلفزيون سوريا
