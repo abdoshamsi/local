@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="MBC1.ae"tvg-logo="https://i.imgur.com/ePBvFC8.png"group-title="General":http-referrer="":http-user-agent="",MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
 #EXTINF:-1 tvg-id="MBC1USA.us"tvg-logo="https://i.imgur.com/aiqEXrk.png"group-title="General":http-referrer="":http-user-agent="",MBC 1 USA (1080p)
